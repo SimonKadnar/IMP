@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Desktop/5.semester/IMP/projekt"
+		},
+		{
+			"name": "rgb-imp",
+			"path": "../../rgb-imp"
+		},
+		{
+			"name": "rgb-imp-A",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"mdns.h": "c"
+		}
+	}
+}
